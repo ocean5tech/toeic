@@ -1,3 +1,6 @@
-uniformity  ： 统一性
-accuracy ： 精确性
-consistency ： 一致性
+- uniformity： 统一性
+- accuracy： 精确性
+- consistency： 一致性
+- scalability： 扩展性
+- reliaablity： 可靠性
+- maintainability:  可维护性
